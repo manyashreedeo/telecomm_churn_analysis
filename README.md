@@ -6,6 +6,7 @@ This project analyzes the different reasons for which customers churn in the tel
 - gender, age
 - location : states, cities
 - tenure, salary, number of dependents
+- data usage
 
 Workflow in this project:
 - Step 1 : Exploratory Data Analysis(EDA) using MySQL
@@ -17,16 +18,16 @@ Workflow in this project:
 - **Actual Dataset copy in inside this repo**: [`source dataset`](data/telecom_churn.csv)
 - The dataset has around 14 columns and 2,43,554 rows
 
-## How to Use the Solution
+## How to Use this Repo
 - For obtaining the dataset -> [`source dataset`](data/telecom_churn.csv)
 - For viewing Exploratory Data Analysis via MySQL :
     - [`Anurag's exploratory sql analysis`](analysis/anurag_sql_analysis.sql)
     - [`Manya's exploratory sql analysis`](analysis/manya_sql.sql)
 - If unable to import csv file into MySQL Workbench, you can load first 20 rows into a table -> [`table script with first 20 rows of source data`](analysis/sql_dataset_script.sql)
-- To view Excel Analysis:
+- To view Excel Analysis (have to download):
     - [`Anurag Excel Analysis`](analysis/anurag_telecom_churn_analysis.xlsx)
     - [`Manya Excel Analysis`](analysis/manya%20telecomm%20analysis.xlsx)
-- To view Power BI reports / dashboards:
+- To view Power BI reports / dashboards (have to download):
     - [`Anurag Power BI dashboard`](visuals/anurag_dashboard.pbix)
     - [`Manya Power BI dashboard`](visuals/Telecomm%20Churn%20Visualization.pbix)
 
