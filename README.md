@@ -53,38 +53,61 @@ Workflow in this project:
 
 ## Univariate Analysis Findings
 - **Age Groups Demographics** : 
+
 ![anurag age groups demographics](/visuals/anurag_img_folder/anurag_AgeGroupDemographics.png)
+
 - **Total Customer Count & Churn Rate with Telecomms** : 
+
 ![anurag cards](visuals/anurag_img_folder/anurag_customerCount_ChurnRate_Telecomms.png)
+
 - **Gender Demographics** : 
+
 ![anurag gender demographics](visuals/anurag_img_folder/anurag_GenderDemographics.png)
+
 - **Total Customer Count per Telecomm** : 
+
 ![manya telecomm customer share](visuals/manya_img_folder/manya_telecomm_customer_count.png)
 
 ## Bivariate Analysis Findings
 - **Relationship of Churn with Gender** : 
+
 ![anurag churning gender](visuals/anurag_img_folder/anurag_ChurnGender.png)
 ![manya churning gender](visuals/manya_img_folder/manya_gender_churn.png)
+
 - **Relationship of Churn with Age Groups** : 
+
 ![anurag churning age groups](visuals/anurag_img_folder/anurag_ChurnAgeGroups.png)
 ![manya churning age group](visuals/manya_img_folder/manya_churn_age_groups.png)
+
 - **Relationship of Churn with Salary** : 
+
 ![anurag churning salary](visuals/anurag_img_folder/anurag_ChurnSalary.png)
 ![manya churning salary](visuals/manya_img_folder/manya_salary_churn.png)
+
 - **Relationship of Churn with Tenure** : 
+
 ![anurag churning tenure](visuals/anurag_img_folder/anurag_ChurnTenure.png)
 ![manya churning tenure](visuals/manya_img_folder/manya_churn_tenure.png)
+
 - **Relationship of Churn with Number of Dependents** : 
+
 ![anurag churning num of dependents](visuals/anurag_img_folder/anurag_ChurnNumOfDependents.png)
 ![manya churning num of dependents](visuals/manya_img_folder/manya_num_of_dependents.png)
+
 - **Relationship of Churn with Number of Data Usage** : 
+
 ![anurag churning data usage](visuals/anurag_img_folder/anurag_ChurnDataUsage.png)
+
 - **Churning share of different states** : 
+
 ![anurag churning state-wise](visuals/anurag_img_folder/anurag_ChurnStateShare.png)
+
 - **Trend of Churn across Cities** : 
+
 ![anurag churning city-wise](visuals/anurag_img_folder/anurag_ChurnCity.png)
 
 ## Key Insights
+| Inquiry | Actionable Insight |
 |------|------|
 | Effect of gender on churning | Among churning customers - males:60% and females:40% |
 | Effect of age groups on Churning | Except the Age Group of 68-77, all age groups have even churning trend  |
@@ -94,7 +117,6 @@ Workflow in this project:
 | Effect of individual data usage on churning | Depends on the telecomm under study |
 | Effect of states on churning | Evened out share, but maximum churn in Jharkhand |
 | Effect of cities on churning | Hyderabad has max. churn |
-|----|-----|
 
 ## Visualization
 ![Anurag Univariate Analysis Report](visuals/anurag_img_folder/anurag_univariate.png)
