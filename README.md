@@ -112,6 +112,4 @@ Workflow in this project:
 | Effect of cities on churning | Hyderabad has max. churn |
 
 ## Visualization
-![Anurag Univariate Analysis Report](visuals/anurag_img_folder/anurag_univariate.png)
-![Anurag Bivariate Analysis Report](visuals/anurag_img_folder/anurag_bivariate.png)
 ![Manya Consolidated Dashboard](visuals/manya_img_folder/manya_dashboard.png)
