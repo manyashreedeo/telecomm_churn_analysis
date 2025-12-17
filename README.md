@@ -21,14 +21,11 @@ Workflow in this project:
 ## How to Use this Repo
 - For obtaining the dataset -> [`source dataset`](data/telecom_churn.csv)
 - For viewing Exploratory Data Analysis via MySQL :
-    - [`Anurag's exploratory sql analysis`](analysis/anurag_sql_analysis.sql)
     - [`Manya's exploratory sql analysis`](analysis/manya_sql.sql)
 - If unable to import csv file into MySQL Workbench, you can load first 20 rows into a table -> [`table script with first 20 rows of source data`](analysis/sql_dataset_script.sql)
 - To view Excel Analysis (have to download):
-    - [`Anurag Excel Analysis`](analysis/anurag_telecom_churn_analysis.xlsx)
     - [`Manya Excel Analysis`](analysis/manya%20telecomm%20analysis.xlsx)
 - To view Power BI reports / dashboards (have to download):
-    - [`Anurag Power BI dashboard`](visuals/anurag_dashboard.pbix)
     - [`Manya Power BI dashboard`](visuals/Telecomm%20Churn%20Visualization.pbix)
 
 ## Problem Statement
