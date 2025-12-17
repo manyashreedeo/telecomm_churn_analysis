@@ -72,27 +72,22 @@ Workflow in this project:
 ## Bivariate Analysis Findings
 - **Relationship of Churn with Gender** : 
 
-![anurag churning gender](visuals/anurag_img_folder/anurag_ChurnGender.png)
 ![manya churning gender](visuals/manya_img_folder/manya_gender_churn.png)
 
 - **Relationship of Churn with Age Groups** : 
 
-![anurag churning age groups](visuals/anurag_img_folder/anurag_ChurnAgeGroups.png)
 ![manya churning age group](visuals/manya_img_folder/manya_churn_age_groups.png)
 
 - **Relationship of Churn with Salary** : 
 
-![anurag churning salary](visuals/anurag_img_folder/anurag_ChurnSalary.png)
 ![manya churning salary](visuals/manya_img_folder/manya_salary_churn.png)
 
 - **Relationship of Churn with Tenure** : 
 
-![anurag churning tenure](visuals/anurag_img_folder/anurag_ChurnTenure.png)
 ![manya churning tenure](visuals/manya_img_folder/manya_churn_tenure.png)
 
-- **Relationship of Churn with Number of Dependents** : 
-
-![anurag churning num of dependents](visuals/anurag_img_folder/anurag_ChurnNumOfDependents.png)
+- **Relationship of Churn with Number of Dependents** :
+- 
 ![manya churning num of dependents](visuals/manya_img_folder/manya_num_of_dependents.png)
 
 - **Relationship of Churn with Number of Data Usage** : 
